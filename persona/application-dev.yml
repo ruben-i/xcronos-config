@@ -1,1 +1,3 @@
+preject.message=aplicacion gestion de datos de persona
+
 api.rest.service.get-account-endpoint=http://localhost:8080
